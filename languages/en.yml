@@ -29,7 +29,7 @@ post:
     author: Author
     link: Link
     copyright_notice: Copyright Notice
-    copyright_content: 'All articles in this blog are licensed under <a href="%s">%s</a> unless stating additionally.'
+    copyright_content: '本博客所有文章除特别声明外，均采用 <a href="%s" target="_blank">%s</a> 许可协议。转载请注明出处。'
   recommend: Related Articles
   edit: Edited on
 
@@ -106,10 +106,10 @@ rightside:
   chat: Chat
 
 copy_copyright:
-  author: Author
-  link: Link
-  source: Source
-  info: Copyright is owned by the author. For commercial reprints, please contact the author for authorization. For non-commercial reprints, please indicate the source.
+  author: 作者
+  link: 链接
+  source: 来源
+  info: 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 Snackbar:
   chs_to_cht: You have switched to Traditional Chinese
